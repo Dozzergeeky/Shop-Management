@@ -1,5 +1,5 @@
 # Shop-Management
-Shop Management is a C++ program that demonstrates file handling and class implementation. The program allows users to read and write data to a file, and uses a class to encapsulate data and functionality.
+Shop Management is a C++ program that demonstrates file handling and class implementation. The program allows the user to read and write data to a file, and uses a class to encapsulate data and functionality.
 
 
 ## Features
